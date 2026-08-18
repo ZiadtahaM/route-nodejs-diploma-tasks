@@ -1,0 +1,16 @@
+node_modules/
+.env
+*.log
+*.tmp
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mdf
+*.ldf
+*.bak
+.idea/
+target/
+__pycache__/
